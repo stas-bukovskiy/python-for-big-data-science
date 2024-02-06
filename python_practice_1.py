@@ -1,0 +1,1 @@
+print("Bukovskyi Stanislav, IPZ_Group_7")
